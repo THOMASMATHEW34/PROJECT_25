@@ -1,1 +1,1 @@
-# PROJECT_25
+# project-C24-template
